@@ -1,0 +1,18 @@
+/* add your CSS here */
+.large-box {
+	border: 1px;
+	border-style: groove;
+	width: 320px;
+	padding: 0 0 15px 15px;
+	box-shadow: 7px 7px 5px #ddd;
+}
+.small-box {
+	border: 1px;
+	border-style: groove;
+	width: 278px;
+	padding: 10px;
+}
+
+#image {
+	padding-bottom: 10px;
+}
